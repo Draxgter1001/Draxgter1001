@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Draxgter1001
 - 👀 I’m interested in videogames, game development, mangas and calisthenics.
 - 🌱 I’m currently learning Game Development and Game Programming
-- 💞️ I’m looking to collaborate on various games and learn from other game programmer.
+- 💞️ I’m looking to collaborate on various games and learn from other game programmers.
 - 📫 Here how you can contact me:
       -Instagram: https://www.instagram.com/draxgter1001/
       -Facebook: https://www.facebook.com/hoque.uthshow/
