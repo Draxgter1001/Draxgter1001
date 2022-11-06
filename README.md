@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Draxgter1001
-- 👀 I’m interested in videogames, game development, mangas and calisthenics.
-- 🌱 I’m currently learning Game Development and Game Programming
+- 👀 I’m interested in videogames, game development, mangas and working out.
+- 🌱 I’m currently studying Computer Science at University of Westminster
 - 💞️ I’m looking to collaborate on various games and learn from other game programmers.
 - 📫 Here how you can contact me:
       -Instagram: https://www.instagram.com/draxgter1001/
