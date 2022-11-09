@@ -7,7 +7,7 @@
       -Facebook: https://www.facebook.com/hoque.uthshow/
       -Gmail: uthshow@gmail.com
       
- I hope we can work togheter and learn from each other.
+ I hope we can work together and learn from each other.
 
 <!---
 Draxgter1001/Draxgter1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
