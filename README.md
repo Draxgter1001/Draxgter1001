@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Draxgter1001
-- 👀 I’m interested in videogames, game development, mangas and working out.
-- 🌱 I’m currently studying Computer Science at University of Westminster
+- 👀 I’m interested in video games, game development, mangas and working out.
+- 🌱 I’m currently studying Computer Science at the University of Westminster
 - 💞️ I want to collaborate on various projects and learn from other programmers.
-- 📫 Here how you can contact me:
-      -Instagram: https://www.instagram.com/draxgter1001/
+- 📫 Here is how you can contact me:
+      -Instagram: https://www.instagram.com/taf.uth.hoq/
       -Facebook: https://www.facebook.com/hoque.uthshow/
       -Gmail: uthshow@gmail.com
       
