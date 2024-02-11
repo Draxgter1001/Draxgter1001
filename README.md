@@ -5,7 +5,7 @@
 - 📫 Here is how you can contact me:
       -Instagram: https://www.instagram.com/taf.uth.hoq/
       -Facebook: https://www.facebook.com/hoque.uthshow/
-      -Gmail: uthshow@gmail.com
+      -Gmail: taf.uth.hoq@gmail.com
       
  I hope we can work together and learn from each other.
 
