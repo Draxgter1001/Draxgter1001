@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year computer science student at the University of Westminster. I am passionate about the realm of coding, building strong application and AI 
+Recent computer science graduate from the University of Westminster. I look forward to working on small or big projects to make people's lives easier.
 
 
 ## 🌐 Socials:
