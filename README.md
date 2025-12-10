@@ -1,5 +1,5 @@
 # 💫 About Me:
-Recent computer science graduate from the University of Westminster. I look forward to working on small or big projects to make people's lives easier.
+Current MSc Software Systems Engineering at UCL. I look forward to working on small or big projects to make people's lives easier.
 
 ## 🌐 Personal Website:
 https://draxgter1001.github.io/ 
